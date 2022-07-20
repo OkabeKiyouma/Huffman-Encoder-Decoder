@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Huffman-WindowsCompliant
+/x64
+/src3.txt
+/src1.txt
+/Source.obj
+/raw.ARW
+/raw-encoded.hte
+/raw-decoded.ARW
+/Huffman-WindowsCompliant.vcxproj.user
